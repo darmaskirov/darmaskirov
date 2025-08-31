@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**darmaskirov/darmaskirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Olexiy (darmaskirov)** — a self-taught developer and content creator.  
+I’m passionate about building web apps, learning new technologies, and sharing my progress online.  
 
-Here are some ideas to get you started:
+- 🌍 Currently based in Warsaw, Poland  
+- 💻 Working on personal projects in **HTML, CSS, JS, PHP, Python**  
+- 🚀 Building my own social platform project **Poople**  
+- 🎥 Running a YouTube channel [darmasoff](https://youtube.com/@darmasoff) with coding & lifestyle content  
+- 📚 Constantly improving my skills in full-stack development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+> “Keep learning, keep building.”
+
